@@ -1,3 +1,8 @@
+Potstop is a completely decentralized social network – one of the under-appreciated and under-hyped benefits of building on the Ethereum blockchain is the ability to have accounts that you can take with you. No more lock-in to a big company!
+
+In a standard web project, we would need to create our own user account system but there's no need to do this with digital wallets. In this project, we'll be showing you how to connect your digital wallet to sites to allow you to login without needing a back-end service, how to verify if someone is who they say they are, and let our community tip each other.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
